@@ -17,4 +17,4 @@ end
 ```
 
 [`string`]: string
-[`key`]: key
+[`key`]: "key_(Event)"

@@ -23,4 +23,4 @@ end
 
 [`string`]: string
 [`number`]: number
-[`mouse_click`]: mouse_click
+[`mouse_click`]: "mouse_click_(Event)"

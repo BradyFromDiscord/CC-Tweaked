@@ -24,7 +24,7 @@ end
 [`string`]: string
 [`number`]: number
 [`boolean`]: boolean
-[`char`]: char
-[`key_up`]: key_up
+[`char`]: "char_(Event)"
+[`key_up`]: "key_up_(Event)"
 [`keys`]: https://tweaked.cc/module/keys.html
 [`keys.getName()`]: https://tweaked.cc/module/keys.html
